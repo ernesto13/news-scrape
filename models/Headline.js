@@ -22,6 +22,10 @@ var HeadlineSchema = new Schema({
     note: {
         type: Schema.Types.ObjectId,
         ref: "Note"
+    },
+    summary: {
+        type: String,
+        trim: true
     }
 });
 
