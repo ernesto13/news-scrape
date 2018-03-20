@@ -1,7 +1,7 @@
 # News-Scrape
 ## U of A's coding bootcamp week 18 coursework. 
 
-## Technologie used
+## Technologies used
 
 * express
 * express-handlebars
